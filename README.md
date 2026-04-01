@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="BannerGuergl.gif" alt="Banner Miguel Dias" width="100%" />
-</p>
-
 <h1 align="center">👋 Olá, eu sou Miguel Dias</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00AFF0&center=true&vCenter=true&width=435&lines=Frontend+Developer;Designer+%26+Criativo;Amante+de+Tecnologia+e+IA" alt="Typing SVG" />
