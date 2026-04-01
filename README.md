@@ -31,19 +31,6 @@ Sou um profissional com paixão por **criar experiências digitais únicas**. Mi
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00AFF0&icon_color=00AFF0" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00AFF0" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical&hide_border=true&background=0D1117&stroke=00AFF0&ring=00AFF0&fire=00AFF0&currStreakNum=FFFFFF" />
-</p>
-
----
-
 ### ✨ Vamos criar algo incrível juntos?
 
 Se você procura um desenvolvedor frontend que une código com design e pensamento inovador, estou à disposição para colaborar em projetos, freelas ou trocar ideias.
